@@ -1,0 +1,36 @@
+/*-------------SECTION 8*/
+.container-8 {
+  height: 90vh;
+  background-color: #eff0e8;
+  display: flex;
+}
+
+.left-8 {
+  flex: 1;
+  background-image: url(/img/Cadeado_fechado.png);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: 160px 130px;
+}
+
+.right-8 {
+  flex: 1;
+  padding: 185px 0 0 35px;
+}
+
+.right-8 h1 {
+  color: #000000;
+  font-size: 32px;
+  line-height: 34px;
+  font-weight: 800;
+  font-family:'Inter', sans-serif;
+}
+
+.right-8 p {
+  font-size: 18px;
+  line-height: 30px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: rgb(0, 0, 0);
+  padding: 20px 0;
+}
